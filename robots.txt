@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Allow important SEO & AI files
+Allow: /index.html
+Allow: /llms.txt
+Allow: /sitemap.xml
+
+# Sitemap location
+Sitemap: https://naseershahllc.com/sitemap.xml
