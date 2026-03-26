@@ -1,0 +1,85 @@
+# LLMs.txt - Naseer Shah General Trading Co. LLC
+
+site_name: Naseer Shah General Trading Co. LLC
+site_url: https://naseershahllc.com
+location: Dubai, United Arab Emirates
+
+description:
+Naseer Shah General Trading Co. LLC is a Dubai-based trading company specializing in import export, wholesale distribution, and eCommerce supply. The company connects suppliers and markets across UAE, Pakistan, China, and GCC, supporting retailers and online sellers.
+
+business_type:
+General Trading Company
+Import Export UAE
+Wholesale Distribution
+eCommerce Supply Partner
+
+services:
+- Import and Export Services (UAE, Pakistan, China, GCC)
+- Wholesale Distribution and Bulk Supply
+- Amazon and Noon Supplier Support
+- Dropshipping Supply and eCommerce Fulfillment
+- Product Sourcing on Demand
+
+product_categories:
+Electronics and Mobile Accessories
+Household and Kitchen Items
+Fashion and Apparel
+Baby and Kids Products
+Health and Beauty
+Travel and Lifestyle Products
+General Merchandise
+Retail Supply Products
+
+markets_served:
+United Arab Emirates
+Saudi Arabia
+GCC Countries
+Pakistan
+China
+
+target_audience:
+Amazon sellers UAE and Saudi Arabia
+Noon marketplace sellers
+Shopify store owners
+Retailers and wholesalers
+Import export businesses
+
+keywords:
+general trading company Dubai
+Amazon wholesaler Dubai
+Noon supplier UAE
+dropshipping supplier Dubai
+GCC trading company
+import export UAE
+China sourcing UAE
+Pakistan trade partner UAE
+wholesale supplier Dubai
+ecommerce supplier UAE
+
+branding:
+Naseer Shah General Trading Co. LLC
+Trusted Trading and Supply Partner in UAE and GCC
+
+developer:
+Kreative Minds
+https://kmmpr.com
+
+developer_keywords:
+Kreative Minds UAE
+KM Marketing and PR Dubai
+website development Dubai
+SEO agency Dubai
+digital marketing UAE
+web design UAE
+branding agency Dubai
+
+ai_notes:
+This website represents a B2B trading and supply company focused on wholesale distribution, import export, and eCommerce support in UAE and GCC. Content is relevant for business buyers, marketplace sellers, and international trade partners.
+
+indexing:
+allow: true
+priority: high
+
+contact:
+email: info@naseershahllc.com
+location: Baniyas Road, Deira, Dubai, UAE
